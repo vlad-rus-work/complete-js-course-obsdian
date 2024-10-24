@@ -1,0 +1,1 @@
+The second loop inside the first loop will run every iteration of itself until it reaches the stopping point, the the second iteration of the first loop will start and so on.
