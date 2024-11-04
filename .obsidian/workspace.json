@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "cd5dd4002598f4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd4f736c84dcc1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05ea0743e779f00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 13/Guard Clause.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guard Clause"
+            }
+          },
+          {
+            "id": "9a94bf1e59f7453a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 13/5. A Better Way - The Intersection Observer API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. A Better Way - The Intersection Observer API"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae54d9a7040fc990",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8e451dac733456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd24e88d61323010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68a36b895d6be1e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed3844562e0cf4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2625ff938b31184",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd24acab9e9c9cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0259c6b10425aac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Section 13/5. A Better Way - The Intersection Observer API.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5. A Better Way - The Intersection Observer API"
+            }
+          },
+          {
+            "id": "5fa2658ce391257b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Section 13/5. A Better Way - The Intersection Observer API.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5. A Better Way - The Intersection Observer API"
+            }
+          },
+          {
+            "id": "5595564fe074a8aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "00c88ea574051411",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Section 13/5. A Better Way - The Intersection Observer API.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5. A Better Way - The Intersection Observer API"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd24e88d61323010",
+  "lastOpenFiles": [
+    "Section 13/Guard Clause.md",
+    "Section 13/5. A Better Way - The Intersection Observer API.md",
+    "Section 8/6. The this keyword.md",
+    "Section 13/4. DOM Traversing.md",
+    "Section 13/2.  Event Propagation - Bubbling and Capturing.md",
+    "Section 13/3. Event Delegation - Implementing Page Navigation.md",
+    "Section 10/2. First-Class and Higher-Order Functions.md",
+    "Section 13/1. How the DOM Really Works.md"
+  ]
+}
